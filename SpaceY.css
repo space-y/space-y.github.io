@@ -192,6 +192,12 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100%;
 }
+.space-backgroud-2 {
+  background-image: url("./spaceylog.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
 /*
  * Extra utilities
  */
