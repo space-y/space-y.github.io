@@ -193,10 +193,19 @@ h1, h2, h3, h4, h5, h6 {
   height: 100%;
 }
 .space-backgroud-2 {
+  opacity: 1;
+  
+}
+.space-backgroud-3 {
   background-image: url("./spaceylog.jpg");
   background-repeat: no-repeat;
-  width: 100%;
+  background-size: 87%;
   height: 100%;
+  opacity: 1;
+}
+
+.text-opacity {
+  opacity: 1.5;
 }
 /*
  * Extra utilities
