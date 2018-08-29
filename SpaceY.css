@@ -187,7 +187,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #e5e5e5;
 }
 .space-backgroud {
-  background-image: url("./oryol-1.jpg");
+  background-image: url("./earth.jpg");
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
@@ -204,8 +204,8 @@ h1, h2, h3, h4, h5, h6 {
   height: 100%;
   opacity: 1;
 }
-.space-backgroud-4 {
-  background-image: url("./oryol-2.jpg");
+.space-backgroud-4ss {
+  background-image: url("./oryol-1.jpg");
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
